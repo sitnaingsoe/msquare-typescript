@@ -1,0 +1,30 @@
+[
+  {
+    "email": "user@gmail.com",
+    "password": "$2a$10$qiR1dM5xrSbw8y.Fr3jmXut6N7rew/DIfvAFPUfIJYsHCLX9cFlOe"
+  },
+  {
+    "email": "user@gmail.com",
+    "password": "$2a$10$wEtZk3X2lLyVcMaTZi0PDeqg0wZW1BsID1JzurbCDDlYqrs1Ja6XS"
+  },
+  {
+    "email": "admin@gmail.com",
+    "password": "$2a$10$nsXem8wHA4PsDG8FPEhiT.GXvafOEj/5qKo5E9JIKnnXbE6KHyq9u"
+  },
+  {
+    "email": "test@email.com",
+    "password": "$2a$10$vN75uSQfF0qvORIHHgXZDejuzndDIN2bRs6xC1zmOW5IFsu9uoNfK"
+  },
+  {
+    "email": "test@email.com",
+    "password": "$2a$10$qcC3uK.PS/2fp6SRkyFX6OQqg6hH98.9/tgVBw5o6L/N8Qum5Y0Ai"
+  },
+  {
+    "email": "admin@gmail.com",
+    "password": "$2a$10$QzFJa71eVBI.bZK3RmJtIehI2vB.Q/e42EWEQktFIWzOxtb2kp7xG"
+  },
+  {
+    "email": "aung@gmail.com",
+    "password": "$2a$10$facFX8t4ic9dpBitIjIBmOg0nxvGiq.MmBydBf7QyoSFDbEaFFCsi"
+  }
+]
